@@ -1,0 +1,5 @@
+train: D:\University\GP\TASKS\TASK-8\PPython\data\cifar10_yolo\train  # Path to training data
+val: D:\University\GP\TASKS\TASK-8\PPython\data\cifar10_yolo\test    # Path to validation data
+
+nc: 10  # Number of classes
+names: [ 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck' ]
